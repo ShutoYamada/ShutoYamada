@@ -12,6 +12,10 @@
 
 # Other works
 
+## GitHub
+![My GitHub State](https://github-readme-stats.vercel.app/api?username=shutoyamada)
+![My GitHub Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=shutoyamada&layout=compact)
+
 ## [Qiita](https://qiita.com/nekoniki)
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/nekoniki/posts.svg)](http://qiita.com/nekoniki)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/nekoniki/contributions.svg)](http://qiita.com/nekoniki)
