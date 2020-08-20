@@ -1,4 +1,18 @@
-# My Qiita Works
+# About Me
+- Name : ShutoYamada
+- Work : Web and MobileApp engineer
+- Blog : [https://nekoniki.com](https://nekoniki.com)
+
+## Skill
+- `Typescript`
+- `React`
+- `ReactNative`
+- `C#`
+- `Python`
+
+# Other works
+
+## [Qiita](https://qiita.com/nekoniki)
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/nekoniki/posts.svg)](http://qiita.com/nekoniki)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/nekoniki/contributions.svg)](http://qiita.com/nekoniki)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/nekoniki/followers.svg)](http://qiita.com/nekoniki)
