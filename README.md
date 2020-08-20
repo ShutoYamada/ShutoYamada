@@ -1,4 +1,7 @@
-### Hi there 👋
+# My Qiita Works
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/nekoniki/posts.svg)](http://qiita.com/nekoniki)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/nekoniki/contributions.svg)](http://qiita.com/nekoniki)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/nekoniki/followers.svg)](http://qiita.com/nekoniki)
 
 <!--
 **ShutoYamada/ShutoYamada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
