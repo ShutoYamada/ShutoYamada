@@ -12,6 +12,10 @@
 
 # Other works
 
+## Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ShutoYamada)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## GitHub
 ![My GitHub State](https://github-readme-stats.vercel.app/api?username=shutoyamada&show_icons=true&count_private=true)
 ![My GitHub Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=shutoyamada&layout=compact)
