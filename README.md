@@ -4,6 +4,8 @@
 - Blog : [https://nekoniki.com](https://nekoniki.com)
 - Qiita : [https://qiita.com/nekoniki](https://qiita.com/nekoniki)
 - Zenn : [https://zenn.dev/nekoniki](https://zenn.dev/nekoniki)
+- teratail : [https://teratail.com/users/nekoniki](https://teratail.com/users/nekoniki)
+- Menta : [https://menta.work/user/23034](https://menta.work/user/23034)
 
 ## Skill
 - `Typescript`
