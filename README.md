@@ -29,6 +29,11 @@
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/nekoniki/contributions.svg)](http://qiita.com/nekoniki)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/nekoniki/followers.svg)](http://qiita.com/nekoniki)
 
+## [Zenn](https://zenn.dev/nekoniki)
+![https://zenn.dev/nekoniki](https://zenn-badge.herokuapp.com/s/nekoniki/articles?style=plastic)
+![https://zenn.dev/nekoniki](https://zenn-badge.herokuapp.com/s/nekoniki/likes?style=flat-square)
+![https://zenn.dev/nekoniki](https://zenn-badge.herokuapp.com/s/nekoniki/followers?style=plastic)
+
 <!--
 **ShutoYamada/ShutoYamada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
