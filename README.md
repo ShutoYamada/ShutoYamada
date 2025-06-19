@@ -1,7 +1,6 @@
 # About Me
 - Name : ShutoYamada
 - Work : Web and MobileApp engineer
-- Blog : [https://nekoniki.com](https://nekoniki.com)
 - Qiita : [https://qiita.com/nekoniki](https://qiita.com/nekoniki)
 - Zenn : [https://zenn.dev/nekoniki](https://zenn.dev/nekoniki)
 - teratail : [https://teratail.com/users/nekoniki](https://teratail.com/users/nekoniki)
